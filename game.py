@@ -1,9 +1,6 @@
 """Choose Your Own Adventure experience!"""
 from random import randint
 
-__author__ = "730561652"
-
-
 SPARKLE: str = "\U00002728"
 BAGUETTE: str = "\U0001F956"
 HEART: str = "\U0001F48C"
